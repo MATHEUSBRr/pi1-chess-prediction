@@ -244,6 +244,8 @@ except Exception:
     rf_cv = None
     xgb_cv = None
 
+
+# ---------- Código para gerar um relatório das partidas em .docx ----------
 doc = Document()
 doc.add_heading('PI1 - Predição do Resultado de Partidas de Xadrez (PGN local)', level=1).alignment = WD_PARAGRAPH_ALIGNMENT.CENTER
 doc.add_paragraph('Aluno: Matheus Franklin Brasileiro').alignment = WD_PARAGRAPH_ALIGNMENT.CENTER
