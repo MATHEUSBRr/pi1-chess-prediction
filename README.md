@@ -78,7 +78,7 @@ rf_pipeline_pgn.pkl — Modelo Random Forest salvo
 xgb_pipeline_pgn.pkl — Modelo XGBoost salvo
 
 📄 PI1_Predicao_Xadrez_PGN_Matheus.docx
-→ Relatório completo com texto, tabelas e figuras (pronto para entrega)
+→ Relatório completo com texto, tabelas e figuras
 
 🧠 Principais Tecnologias Utilizadas
 Python 3.10+
