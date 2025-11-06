@@ -1,0 +1,205 @@
+white_rating,black_rating,rating_diff,moves,opening,time_control,material_diff,result,pgn,abs_rating_diff,moves_log,white_higher
+1551,1482,69,11,Unknown,600,0,white,"[Event ""Live Chess""]
+[Site ""Chess.com""]
+[Date ""2025.07.05""]
+[Round ""-""]
+[White ""matheusin""]
+[Black ""shajber123""]
+[Result ""1-0""]
+[WhiteElo ""1551""]
+[BlackElo ""1482""]
+[TimeControl ""600""]
+[EndTime ""23:49:23 GMT+0000""]
+[Termination ""matheusin venceu por xeque-mate""]
+
+1. e4 b6 2. Nf3 Bb7 3. d4 Bxe4 4. Nc3 Bb7 5. Bb5 e6 6. Ne5 c6 7. Bd3 Nf6 8. Bg5
+Be7 9. Bxf6 Bxf6 10. Qh5 O-O 11. Qxh7# 1-0",69,2.4849066497880004,1
+1556,1543,13,69,Unknown,600,5,white,"[Event ""Live Chess""]
+[Site ""Chess.com""]
+[Date ""2025.07.05""]
+[Round ""-""]
+[White ""MinnowMate""]
+[Black ""matheusin""]
+[Result ""1-0""]
+[WhiteElo ""1556""]
+[BlackElo ""1543""]
+[TimeControl ""600""]
+[EndTime ""0:02:53 GMT+0000""]
+[Termination ""MinnowMate venceu - partida abandonada""]
+
+1. d4 g6 2. Bf4 Bg7 3. e3 Nf6 4. Be2 d6 5. Nd2 O-O 6. h4 c5 7. h5 cxd4 8. hxg6
+fxg6 9. exd4 Nc6 10. c3 Ne4 11. Bh6 Nxf2 12. Qb3+ Kh8 13. Bxg7+ Kxg7 14. Rh2 Bg4
+15. Bxg4 Nxg4 16. Rh4 Nf2 17. Ngf3 Nd3+ 18. Kd1 e5 19. dxe5 dxe5 20. Kc2 Nc5 21.
+Qc4 b6 22. Rah1 h5 23. Ne4 Na5 24. Qe2 Nxe4 25. Qxe4 Qf6 26. Qxe5 Qxe5 27. Nxe5
+Rf2+ 28. Kd3 Rxg2 29. Rd4 Rg3+ 30. Kc2 Rf8 31. Rd7+ Kh6 32. Rxa7 Rf2+ 33. Kb1
+Rgg2 34. Nd3 Rd2 35. Rd7 Nc4 36. Re1 Nxb2 37. Nxb2 Rxb2+ 38. Kc1 Rxa2 39. Kb1
+Rgb2+ 40. Kc1 Rc2+ 41. Kb1 Rab2+ 42. Ka1 Ra2+ 43. Kb1 Rg2 44. Rd6 Rae2 45. Rxe2
+Rxe2 46. Rxb6 h4 47. c4 h3 48. Rb3 Re1+ 49. Kc2 Rh1 50. c5 g5 51. c6 g4 52. c7
+h2 53. c8=Q Rc1+ 54. Kxc1 h1=Q+ 55. Kb2 Qg2+ 56. Qc2 Qxc2+ 57. Kxc2 Kh5 58. Kd2
+Kh4 59. Ke2 g3 60. Kf1 Kh3 61. Kg1 Kh4 62. Rf3 Kg4 63. Kg2 Kh4 64. Rxg3 Kh5 65.
+Kf3 Kh6 66. Kf4 Kh5 67. Rg2 Kh6 68. Kf5 Kh7 69. Kf6 1-0",13,4.248495242049359,1
+1542,1551,-9,46,Unknown,600,-4,black,"[Event ""Live Chess""]
+[Site ""Chess.com""]
+[Date ""2025.07.07""]
+[Round ""-""]
+[White ""pobedano""]
+[Black ""matheusin""]
+[Result ""0-1""]
+[WhiteElo ""1542""]
+[BlackElo ""1551""]
+[TimeControl ""600""]
+[EndTime ""12:37:10 GMT+0000""]
+[Termination ""matheusin venceu por xeque-mate""]
+
+1. e4 g6 2. Nf3 Bg7 3. d4 d6 4. Be2 Nf6 5. Nc3 O-O 6. O-O e5 7. d5 c6 8. Bg5 Qe8
+9. a4 cxd5 10. Bxf6 Bxf6 11. Nxd5 Bd8 12. Bb5 Bd7 13. Bd3 Bxa4 14. b4 Bb5 15. c4
+Bc6 16. Ne3 Nd7 17. b5 Bxe4 18. Bxe4 Nf6 19. Bxb7 Rb8 20. Bc6 Qe7 21. Nf5 Qe6
+22. Nh6+ Kg7 23. Qc1 Bb6 24. Ng5 Qe7 25. Ne4 Nxe4 26. Bxe4 Bd4 27. Ra3 Rfc8 28.
+Bd5 Qh4 29. Rxa7 Bxa7 30. Nxf7 Rf8 31. g3 Qd4 32. Qh6+ Kf6 33. Qxh7 Rb7 34. Qh4+
+Qxh4 35. gxh4 Rbxf7 36. Bxf7 Rxf7 37. Ra1 Ke6 38. Kf1 Rxf2+ 39. Ke1 Bc5 40. Ra6
+Rxh2 41. b6 Rxh4 42. b7 Rh8 43. Ra8 Rh1+ 44. Ke2 Rh2+ 45. Kd3 Rh3+ 46. Ke4 Re3#
+0-1",9,3.8501476017100584,0
+1559,1553,6,82,Unknown,600,5,white,"[Event ""Live Chess""]
+[Site ""Chess.com""]
+[Date ""2025.07.07""]
+[Round ""-""]
+[White ""matheusin""]
+[Black ""akane1234""]
+[Result ""1-0""]
+[WhiteElo ""1559""]
+[BlackElo ""1553""]
+[TimeControl ""600""]
+[EndTime ""12:56:10 GMT+0000""]
+[Termination ""matheusin venceu por desistência""]
+
+1. c4 e5 2. Nc3 Bb4 3. d3 Bxc3+ 4. bxc3 Nf6 5. e4 d6 6. Ba3 O-O 7. g3 Nc6 8. Bg2
+Re8 9. Nf3 Bg4 10. h3 Bh5 11. g4 Nxg4 12. hxg4 Bxg4 13. Qd2 Qf6 14. Nh2 Bd7 15.
+f3 Qh4+ 16. Qf2 Qxf2+ 17. Kxf2 Re6 18. Bh3 Re7 19. Bxd7 Rxd7 20. Rag1 f6 21. Bc1
+Ne7 22. Bh6 Ng6 23. Be3 b6 24. Nf1 Rb8 25. Ng3 b5 26. Bxa7 Ra8 27. Be3 Rxa2+ 28.
+Kf1 Rd8 29. Rg2 Ra1+ 30. Ke2 Ra2+ 31. Bd2 Rda8 32. Nf5 Rc2 33. Rd1 Ra7 34. cxb5
+c5 35. bxc6 Nf4+ 36. Kf2 Nxg2 37. Kxg2 Kf7 38. Nxd6+ Ke6 39. Nc4 Rc7 40. Ne3 Ra2
+41. Nd5 Rxc6 42. Nb4 Rxd2+ 43. Rxd2 Rxc3 44. Rc2 Rb3 45. Nd5 Kf7 46. Rc7+ Kg6
+47. Rc3 Rb2+ 48. Kg3 h5 49. Ne3 Kg5 50. Nf5 g6 51. Nh4 Kh6 52. f4 exf4+ 53. Kxf4
+g5+ 54. Kg3 gxh4+ 55. Kxh4 Rh2+ 56. Kg3 Re2 57. Kf3 Rd2 58. Rc6 Kg5 59. Rc5+ Kg6
+60. Ke3 Rg2 61. Rc8 Kf7 62. Kd4 h4 63. Rc7+ Kg6 64. Rc8 Kh7 65. Rc1 h3 66. Rh1
+h2 67. e5 Kg6 68. e6 f5 69. Ke5 Re2+ 70. Kd6 Kf6 71. d4 Rxe6+ 72. Kd5 Re2 73.
+Kc5 Ke6 74. d5+ Kd7 75. d6 f4 76. Ra1 Rc2+ 77. Kd5 Rd2+ 78. Ke5 Rxd6 79. Kxf4
+Rd2 80. Kg3 Rd1 81. Rxd1+ Ke6 82. Kxh2 Ke5 1-0",6,4.418840607796598,1
+1557,1567,-10,29,Unknown,600,-3,black,"[Event ""Live Chess""]
+[Site ""Chess.com""]
+[Date ""2025.07.07""]
+[Round ""-""]
+[White ""Alex_madura""]
+[Black ""matheusin""]
+[Result ""0-1""]
+[WhiteElo ""1557""]
+[BlackElo ""1567""]
+[TimeControl ""600""]
+[EndTime ""13:22:01 GMT+0000""]
+[Termination ""matheusin venceu por desistência""]
+
+1. e4 d5 2. exd5 Nf6 3. Nc3 Nxd5 4. Nxd5 Qxd5 5. Nf3 Bg4 6. Be2 Nc6 7. c3 e5 8.
+O-O e4 9. Nh4 Bxe2 10. Qxe2 g5 11. Nf3 O-O-O 12. Ne1 f5 13. d4 exd3 14. Nxd3
+Qxd3 15. Qxd3 Rxd3 16. Bxg5 Rg8 17. Bf4 Bd6 18. Bxd6 Rxd6 19. f3 Re8 20. Rf2 f4
+21. a4 Na5 22. b4 Nc4 23. b5 Rd3 24. Rc1 Re5 25. h3 Rc5 26. Rcc2 Rd1+ 27. Kh2
+Ne3 28. Rce2 Rxc3 29. Ra2 Rcc1 0-1",10,3.4011973816621555,0
+1574,1551,23,44,Unknown,600,2,white,"[Event ""Live Chess""]
+[Site ""Chess.com""]
+[Date ""2025.07.09""]
+[Round ""-""]
+[White ""matheusin""]
+[Black ""Maykl_23""]
+[Result ""1-0""]
+[WhiteElo ""1574""]
+[BlackElo ""1551""]
+[TimeControl ""600""]
+[EndTime ""18:22:23 GMT+0000""]
+[Termination ""matheusin venceu por xeque-mate""]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bb5 Nd4 5. Nxd4 exd4 6. e5 dxc3 7. exf6 Qxf6
+8. dxc3 c6 9. Bd3 d5 10. Qe2+ Be7 11. O-O O-O 12. f4 Bc5+ 13. Be3 Re8 14. Bd4
+Bxd4+ 15. cxd4 Qxd4+ 16. Qf2 Qxb2 17. Rfe1 Bg4 18. Qh4 Qd4+ 19. Kf1 Qxf4+ 20.
+Kg1 Qd4+ 21. Kh1 Rxe1+ 22. Rxe1 f5 23. h3 h6 24. hxg4 g5 25. Qxh6 Qf2 26. Qg6+
+Kh8 27. Re8+ Rxe8 28. Qxe8+ Kh7 29. Bxf5+ Kg7 30. Qe7+ Kg8 31. Qxg5+ Kf8 32.
+Qd8+ Kg7 33. Qe7+ Kg8 34. Bh7+ Kh8 35. Bg6 Qf1+ 36. Kh2 Qf4+ 37. Kg1 Qc1+ 38.
+Kf2 Qf4+ 39. Ke1 Qg3+ 40. Kd2 Qf4+ 41. Qe3 Qxg4 42. Qh6+ Kg8 43. Qh7+ Kf8 44.
+Qf7# 1-0",23,3.8066624897703196,1
+1582,1564,18,37,Unknown,600,5,white,"[Event ""Live Chess""]
+[Site ""Chess.com""]
+[Date ""2025.07.09""]
+[Round ""-""]
+[White ""matheusin""]
+[Black ""SaintNow""]
+[Result ""1-0""]
+[WhiteElo ""1582""]
+[BlackElo ""1564""]
+[TimeControl ""600""]
+[EndTime ""21:54:46 GMT+0000""]
+[Termination ""matheusin venceu por desistência""]
+
+1. c4 c5 2. Nc3 e6 3. d3 Nc6 4. g3 Be7 5. Bg2 Nf6 6. Nf3 a6 7. O-O O-O 8. a4 Qc7
+9. Bf4 d6 10. Rb1 Nh5 11. Bd2 Nd4 12. Nxd4 cxd4 13. Na2 f5 14. e4 dxe3 15. Bxe3
+Nf6 16. b4 Bd7 17. a5 Rae8 18. Bb6 Qc8 19. Nc3 Bc6 20. Rc1 Bxg2 21. Kxg2 Ng4 22.
+h3 Qc6+ 23. Qf3 Qxf3+ 24. Kxf3 Ne5+ 25. Ke3 f4+ 26. gxf4 Rxf4 27. Kxf4 Rf8+ 28.
+Ke3 Rf3+ 29. Kd2 Rxd3+ 30. Kc2 Bf6 31. f4 Rxh3 32. fxe5 Bxe5 33. Kb3 Bf6 34. Rh1
+Rg3 35. Rc2 d5 36. cxd5 exd5 37. Rd1 1-0",18,3.6375861597263857,1
+1585,1574,11,29,Unknown,600,7,white,"[Event ""Live Chess""]
+[Site ""Chess.com""]
+[Date ""2025.07.11""]
+[Round ""-""]
+[White ""canoebrain2""]
+[Black ""matheusin""]
+[Result ""1-0""]
+[WhiteElo ""1585""]
+[BlackElo ""1574""]
+[TimeControl ""600""]
+[EndTime ""11:17:00 GMT+0000""]
+[Termination ""canoebrain2 venceu por xeque-mate""]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Nc3 Nf6 5. Bf4 O-O 6. Be2 c5 7. dxc5 dxc5 8. O-O
+Be6 9. Re1 Nbd7 10. e5 Nh5 11. Qd2 Nxf4 12. Qxf4 Qc7 13. Nb5 Qb8 14. Bd3 a6 15.
+Nc3 f6 16. Qe3 fxe5 17. Rad1 b5 18. Be4 Ra7 19. Ng5 Qb6 20. Nxe6 Rf4 21. Bd5 Kh8
+22. Nxg7 Kxg7 23. Bf3 Qc7 24. Nd5 Qa5 25. Nxf4 exf4 26. Qxf4 Ra8 27. Rxe7+ Kg8
+28. Qf7+ Kh8 29. Qxh7# 1-0",11,3.4011973816621555,1
+1566,1565,1,18,Unknown,600,-3,black,"[Event ""Live Chess""]
+[Site ""Chess.com""]
+[Date ""2025.07.11""]
+[Round ""-""]
+[White ""matheusin""]
+[Black ""Mosalah0001""]
+[Result ""0-1""]
+[WhiteElo ""1566""]
+[BlackElo ""1565""]
+[TimeControl ""600""]
+[EndTime ""15:40:07 GMT+0000""]
+[Termination ""Mosalah0001 venceu - partida abandonada""]
+
+1. c4 g6 2. Nc3 Bg7 3. d3 Nf6 4. e4 O-O 5. Nf3 d6 6. h3 e5 7. Be3 b6 8. d4 exd4
+9. Bxd4 Nc6 10. Be3 Be6 11. b3 Nb4 12. Qd2 a5 13. a3 Nc6 14. Bg5 h6 15. Bxh6
+Nxe4 16. Bg5 Nxd2 17. Bxd8 Nxf3+ 18. gxf3 Bxc3+ 0-1",1,2.9444389791664403,1
+1559,1600,-41,79,Unknown,600,-10,black,"[Event ""Live Chess""]
+[Site ""Chess.com""]
+[Date ""2025.07.14""]
+[Round ""-""]
+[White ""matheusin""]
+[Black ""byuik1""]
+[Result ""0-1""]
+[WhiteElo ""1559""]
+[BlackElo ""1600""]
+[TimeControl ""600""]
+[EndTime ""11:03:38 GMT+0000""]
+[Termination ""byuik1 venceu por xeque-mate""]
+
+1. e4 c5 2. Nf3 Nc6 3. Bc4 e6 4. d4 cxd4 5. Nxd4 Nf6 6. Nxc6 bxc6 7. Nc3 Bb4 8.
+f3 d5 9. exd5 cxd5 10. Bb3 a6 11. O-O O-O 12. Bd2 Bd7 13. Na4 Bxd2 14. Qxd2 Qc7
+15. Rac1 Bb5 16. Rfe1 Rfd8 17. Nc3 Be8 18. Ne2 a5 19. a3 a4 20. Ba2 Qb6+ 21. Qd4
+Qb5 22. c4 dxc4 23. Qxc4 Qxc4 24. Rxc4 Rd2 25. Rb4 Nd5 26. Bxd5 Rxd5 27. Nc3
+Rda5 28. Rd1 Kf8 29. Rbd4 Rb8 30. R1d2 Rb3 31. Rd8 Ke7 32. R8d4 e5 33. Re4 f6
+34. g4 Bg6 35. Rxa4 Rxa4 36. Nxa4 Rxf3 37. Nc3 Rd3 38. Nd5+ Ke6 39. Nc7+ Kd7 40.
+Rxd3+ Bxd3 41. Nd5 Kd6 42. Nc3 Bc2 43. a4 Kc5 44. Kf2 Kb4 45. Ke3 Bxa4 46. Nd5+
+Kb3 47. Ne7 Bd7 48. h3 Kxb2 49. Ke4 Be6 50. Nc6 Kc3 51. Nd8 Bd7 52. Nb7 Kc4 53.
+Nd6+ Kc5 54. Nb7+ Kc6 55. Na5+ Kd6 56. Nc4+ Ke6 57. Ne3 Bc6+ 58. Kd3 g6 59. Ke2
+f5 60. gxf5+ gxf5 61. Kf2 h5 62. h4 f4 63. Nc4 e4 64. Nb2 Bb5 65. Nd1 Kf5 66.
+Nc3 Bd3 67. Nd5 Kg4 68. Kg2 e3 69. Kg1 Kf3 70. Nb4 Bc4 71. Nc2 e2 72. Nd4+ Ke3
+73. Nf5+ Kd3 74. Kf2 Kd2 75. Nd4 e1=Q+ 76. Kg2 Qg3+ 77. Kh1 Bf1 78. Nb3+ Kc3 79.
+Nc5 Qg2# 0-1",41,4.382026634673881,0
