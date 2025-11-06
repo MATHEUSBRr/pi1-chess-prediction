@@ -52,7 +52,7 @@ Treinar Random Forest e XGBoost
 
 Calcular métricas de acurácia e matrizes de confusão
 
-Gerar um relatório Word (.docx) pronto para entrega
+Gerar um relatório Word (.docx)
 
 📊 Saídas Geradas
 Após a execução, a pasta pi1_pgn_output/ conterá:
