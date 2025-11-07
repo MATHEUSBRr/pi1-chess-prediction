@@ -2,7 +2,7 @@
 
 Este projeto tem como objetivo **analisar partidas de xadrez** em formato PGN e **prever o resultado da partida (vitória das brancas, empate ou vitória das pretas)** usando **técnicas de aprendizado de máquina**.  
 
-O script lê suas partidas exportadas em PGN, extrai variáveis relevantes (como ratings, número de lances e abertura), treina modelos de classificação e gera automaticamente um **relatório Word completo com gráficos e resultados dos modelos**.
+O script lê suas partidas exportadas em PGN, extrai variáveis relevantes (como ratings, número de lances e abertura) e treina modelos de classificação.
 
 ---
 

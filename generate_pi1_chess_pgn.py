@@ -1,6 +1,6 @@
 # generate_pi1_chess_pgn.py
 # Lê um arquivo PGN local (partidas_matheus.pgn), extrai features, treina RandomForest + XGBoost/GradientBoosting,
-# salva figuras, modelos e gera um relatório .docx pronto para entregar.
+# salva figuras e modelos.
 #
 # Requer: python-chess, pandas, numpy, scikit-learn, matplotlib, python-docx, joblib
 # pip install python-chess pandas numpy scikit-learn matplotlib python-docx joblib xgboost
