@@ -28,7 +28,7 @@ O script lê suas partidas exportadas em PGN, extrai variáveis relevantes (como
 
 ### 1️⃣ Clonar o repositório
 ```bash
-git clone https://github.com/seu-usuario/PI1-Chess-Prediction.git
+git clone https://github.com/MATHEUSBRr/PI1-Chess-Prediction.git
 cd PI1-Chess-Prediction
 2️⃣ Criar o ambiente virtual
 No Windows:
@@ -51,8 +51,6 @@ Gerar gráficos exploratórios
 Treinar Random Forest e XGBoost
 
 Calcular métricas de acurácia e matrizes de confusão
-
-Gerar um relatório Word (.docx)
 
 📊 Saídas Geradas
 Após a execução, a pasta pi1_pgn_output/ conterá:
@@ -92,8 +90,6 @@ scikit-learn — Pré-processamento e modelos clássicos (RandomForest, Gradient
 xgboost — Modelo de boosting eficiente
 
 python-chess — Leitura e análise de arquivos PGN
-
-python-docx — Criação automática do relatório Word
 
 joblib — Salvamento dos modelos
 
