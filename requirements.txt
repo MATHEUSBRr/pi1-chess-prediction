@@ -3,6 +3,5 @@ pandas
 numpy
 matplotlib
 scikit-learn
-python-docx
 joblib
 xgboost
